@@ -7,15 +7,15 @@
 ---
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yossix07&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yossix07&layout=compact)](https://github.com/yossix07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96&layout=compact)](https://github.com/ThePinkPanther96/github-readme-stats)
 
 📫  Connect with me:
   
 [![gmail](https://cdn.icon-icons.com/icons2/652/PNG/48/gmail_icon-icons.com_59877.png)][2]
 [![linkedin](https://cdn.icon-icons.com/icons2/2428/PNG/48/linkedin_black_logo_icon_147114.png)][1]
 
-[1]: https://www.linkedin.com/in/yossi-maatook
-[2]: mailto:yossix07@gmail.com
+[1]: https://www.linkedin.com/in/gal-rozman/
+[2]: gal8156@gmail.com
 
 
 ## P.S - Here is a random joke that'll make your day a little better!
