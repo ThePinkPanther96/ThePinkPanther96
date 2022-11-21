@@ -11,7 +11,7 @@
 
 
 
-## 📫 Connect with me:
+📫 Connect with me:
 
   
 [![gmail](https://cdn.icon-icons.com/icons2/272/PNG/96/Gmail_29991.png)][2]
