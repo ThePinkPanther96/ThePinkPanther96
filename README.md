@@ -1,7 +1,7 @@
 # Hi there, I'm Gal 👋 
 
-- 📘 I Studied Network and System administration, as well as Programming in Python, PowerShell and Bash.
-- 💻 I'm a System Admininstrator at Chain-Reaction Ltd.
+- 📘 I Studied Networks, System administration, and security, as well as Programming in Python, PowerShell and Bash.
+- 💻 I'm a System Integration engineer at XACT Robotics.
 - 👯 I’m looking to collaborate with other content creators.
 
 ---
