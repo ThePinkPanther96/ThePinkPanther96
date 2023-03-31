@@ -11,8 +11,9 @@
 
 
 ## 📫 Connect with me: 
-   [![gmail](https://cdn.icon-icons.com/icons2/272/PNG/96/Gmail_29991.png)][2]
-   [![linkedin](https://cdn.icon-icons.com/icons2/805/PNG/96/linkedin_icon-icons.com_65929.png)][1]
+[![gmail](https://cdn.icon-icons.com/icons2/272/PNG/96/Gmail_29991.png)][3]
+
+[![linkedin](https://cdn.icon-icons.com/icons2/805/PNG/96/linkedin_icon-icons.com_65929.png)][1]
 
 [1]: https://www.linkedin.com/in/gal-rozman/
 [2]: gal8156@gmail.com
