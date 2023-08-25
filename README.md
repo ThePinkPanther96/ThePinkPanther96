@@ -11,7 +11,7 @@
 
 
 ## 📫 Connect with me: 
-[![gmail](https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png)][2]
+[![gmail](https://cdn.icon-icons.com/icons2/272/PNG/96/Gmail_29991.png)][2]
 [![linkedin](https://cdn.icon-icons.com/icons2/805/PNG/96/linkedin_icon-icons.com_65929.png)][1]
 
 
