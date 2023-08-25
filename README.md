@@ -16,7 +16,8 @@
 
 
 [1]: https://www.linkedin.com/in/gal-rozman/
-[2]: gal8156@gmail.com
+[2]: <a href="mailto:gal8156@gmail.com?subject=Hello%20Gal&body=Hi%20there,">Send me an email</a>
+
 
 
 ## P.S - Here is a random joke that'll make your day a little better!
