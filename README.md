@@ -1,8 +1,8 @@
 # Hi there, I'm Gal 👋 
 
-- 📘 I Studied Networks, System administration, and security. As well as Programming in Python, PowerShell and Bash.
-- 💻 I'm a System Integration engineer at XACT Robotics.
-- 👯 I’m looking to collaborate with other content creators.
+- 📘 My educational background includes studies in Networks, System Administration, and Security. Additionally, I am proficient in programming languages such as Python, PowerShell, and Bash.
+- 💻 Currently, I hold the role of a System Integration Engineer at XACT Robotics.
+- 👯 I am actively seeking opportunities to collaborate with fellow content creators.
 
 ---
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThePinkPanther96&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
@@ -11,7 +11,7 @@
 
 
 ## 📫 Connect with me: 
-[![gmail](https://cdn.icon-icons.com/icons2/272/PNG/96/Gmail_29991.png)][2]
+[![gmail](https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png)][2]
 [![linkedin](https://cdn.icon-icons.com/icons2/805/PNG/96/linkedin_icon-icons.com_65929.png)][1]
 
 
