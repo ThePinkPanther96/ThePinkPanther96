@@ -20,6 +20,6 @@
 [1]: https://www.linkedin.com/in/gal-rozman/
 
 
-## P.S - Here is a random joke that'll make your day a little better!
+## P.S. - Here is a random joke that'll make your day a little better!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
