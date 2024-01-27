@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96&layout=compact)](https://github.com/ThePinkPanther96/github-readme-stats)
 
 
-[![Top Langs](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact))](https://github.com/ThePinkPanther96/github-readme-stats)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)(https://github.com/ThePinkPanther96/github-readme-stats)
 
 ---
 ## 📫 Connect with me:
