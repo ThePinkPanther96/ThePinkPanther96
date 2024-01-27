@@ -18,7 +18,7 @@
 
 [![gmail](https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png)](mailto:gal8156@gmail.com)
 [![linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/gal-rozman/)
-[![linkedin](https://img.icons8.com/?size=48&id=104082&format=png)](https://www.linkedin.com/in/gal-rozman/)
+[![CV](https://img.icons8.com/?size=48&id=104082&format=png)](https://drive.google.com/drive/folders/1q3YY54YtifouiQ3W3lHcvL9spgzoiO4J?usp=sharing)
 
 
 ## P.S. - Here is a random joke that'll make your day a little better!
