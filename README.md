@@ -19,7 +19,7 @@
 [![gmail](https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png)](mailto:gal8156@gmail.com)
 [![linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/gal-rozman/)
 
-
+[![gamail](https://img.icons8.com/?size=256&id=104082&format=png)]
 
 
 ## P.S. - Here is a random joke that'll make your day a little better!
