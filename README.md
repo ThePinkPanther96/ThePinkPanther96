@@ -8,19 +8,9 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThePinkPanther96&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96&layout=compact)](https://github.com/ThePinkPanther96/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96&langs_count=8)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 ---
 ## 📫 Connect with me:
