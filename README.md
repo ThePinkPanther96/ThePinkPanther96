@@ -4,6 +4,8 @@
 - 💻 Currently, I hold the role of a System Integration Engineer at a medical robotics startup company.
 - 👯 I am actively seeking opportunities to collaborate with fellow content creators.
 
+[![HI](https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif)]
+
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
