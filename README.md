@@ -1,7 +1,7 @@
 # Hi there, I'm Gal 👋 
 
-- 📘 My educational background includes studies in Networks, System Administration, and Security. Additionally, I am proficient in     programming languages such as Python, PowerShell, and Bash.
-- 💻 Currently, I hold the role of a System Integration Engineer at XACT Robotics.
+- 📘 My professional background specializes in advanced networks within both on-premises and cloud-based environments, focusing on system administration, network security, and data recovery. Additionally, I am proficient in automation programming, source control, and developing solutions for IT architecture.
+- 💻 Currently, I hold the role of a System Integration Engineer at a medical robotics startup company.
 - 👯 I am actively seeking opportunities to collaborate with fellow content creators.
 
 ---
