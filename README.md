@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96&layout=compact)](https://github.com/ThePinkPanther96/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96)](https://github.com/anuraghazra/github-readme-stats)(https://github.com/ThePinkPanther96/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96&langs_count=8)
 
 ---
 ## 📫 Connect with me:
