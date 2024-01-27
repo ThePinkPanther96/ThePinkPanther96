@@ -10,7 +10,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThePinkPanther96&show_icons=true&hide_border=false&title_color=ffc707&icon_color=ffc707&bg_color=09131B&text_color=ffffff&border_color=60007a" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThePinkPanther96&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThePinkPanther96&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
