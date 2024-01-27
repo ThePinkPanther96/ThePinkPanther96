@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96&layout=compact)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?ThePinkPanther9=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?ThePinkPanther96=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## 📫 Connect with me:
