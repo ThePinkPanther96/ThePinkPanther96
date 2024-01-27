@@ -7,7 +7,7 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThePinkPanther96&show_icons=true&hide_border=false&title_color=ffc707&icon_color=ffc707&bg_color=DEG,DE6B48,E5B181,F4B9B2,DAEDBD,7DBBC3&text_color=ffffff&border_color=60007a" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThePinkPanther96&show_icons=true&hide_border=false&title_color=ffc707&icon_color=ffc707&bg_color=DEG,896978,839791,AAC0AF,FFD4CA,EFD5C3&text_color=ffffff&border_color=60007a" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThePinkPanther96&layout=compact&langs_count=8&card_width=320" />
