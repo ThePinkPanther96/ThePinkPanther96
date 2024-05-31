@@ -20,7 +20,7 @@
 
 [![gmail](https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png)](mailto:gal8156@gmail.com)
 [![linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/gal-rozman/)
-[![CV](https://img.icons8.com/?size=30&id=FsdeAlzPeyOJ&format=png)](https://mega.nz/file/JuM0nJ4J#VOKRHpT0_XGk4CWudD2Xfu-7XsHK5Luq2m4PfTCG5LM)
+[![CV](https://img.icons8.com/?size=40&id=32518&format=png)](https://mega.nz/file/JuM0nJ4J#VOKRHpT0_XGk4CWudD2Xfu-7XsHK5Luq2m4PfTCG5LM)
 
 
 ## P.S. - Here is a random joke that'll make your day a little better!
