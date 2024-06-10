@@ -1,7 +1,7 @@
 # Hi there, I'm Gal 👋 
 
-- 📘 My professional background specializes in advanced networks within both on-premises and cloud-based environments, focusing on system administration, network security, and data recovery. Additionally, I am proficient in automation programming, source control, and developing solutions for IT architecture.
-- 💻 Currently, I hold the role of a System Integration Engineer at a medical robotics startup company.
+- 📘 My professional background specializes in establishing and managing both on-premises and cloud-based environments, specializing in AWS and configuring advanced network environments, including firewalls, implementing endpoint and traffic security, data recovery, backups, and ensuring compliance with regulations. I'm also Skilled in writing automation scripts for software deployment and configuration management using PowerShell, Python, and Bash in Linux and Windows environments.
+- 💻 Currently, I hold the role of an R&D System and infrastructure Administrator at a global medical robotics startup company.
 - 👯 I am actively seeking opportunities to collaborate with fellow content creators.
 
 ---
