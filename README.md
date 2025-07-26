@@ -13,7 +13,15 @@
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThePinkPanther96&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-
+---
+### 🧰 Tech toolbox
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ---
 ## 📫 Connect with me:
