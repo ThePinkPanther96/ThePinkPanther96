@@ -24,14 +24,13 @@
 ![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ---
-## 📫 Connect with me:
-
+### 📫 Connect with me
 [![gmail](https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png)](mailto:gal8156@gmail.com)
 [![linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/gal-rozman/)
 [![Credly](https://img.icons8.com/?size=32&id=eJRkOYixqXNP&format=png)](https://www.credly.com/users/gal-rozman/)
 
 
-## P.S. - Here is a random joke that'll make your day a little better!
+### P.S. - Here is a random joke that'll make your day a little better!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
