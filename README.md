@@ -1,7 +1,7 @@
 # Hi there, I'm Gal 👋 
 
-- 📘 My professional background specializes in establishing and managing both on-premises and cloud-based environments, specializing in AWS and configuring advanced network environments, including firewalls, implementing endpoint and traffic security, data recovery, backups, and ensuring compliance with regulations. I'm also Skilled in writing automation scripts for software deployment and configuration management using PowerShell, Python, and Bash in Linux and Windows environments.
-- 💻 Currently, I hold the role of an R&D System and infrastructure Administrator at a global medical robotics startup company.
+- 📘 DevOps/SRE engineer focused on automated AWS observability. Expert in Terraform, Docker, and CI/CD (GitHub Actions, Jenkins); led Datadog, New Relic, and CloudWatch integrations for APM, dashboards, and KPI monitoring; automates infrastructure with Python, Bash, Lambda, and EventBridge.
+- 💻 Currently, I hold the role of a CloudOps Engineer at a global AWS and Salesforce Reseller company.
 - 👯 I am actively seeking opportunities to collaborate with fellow content creators.
 
 ---
