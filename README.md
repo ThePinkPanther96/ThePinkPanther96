@@ -1,6 +1,6 @@
 # Hi there, I'm Gal 👋 
 
-- 📘 DevOps/SRE engineer focused on automated AWS observability. Expert in Terraform, Docker, and CI/CD (GitHub Actions, Jenkins); led Datadog, New Relic, and CloudWatch integrations for APM, dashboards, and KPI monitoring; automates infrastructure with Python, Bash, Lambda, and EventBridge.
+- 📘 Results-driven DevOps and SRE engineer with hands-on experience automating large-scale cloud observability solutions on AWS. Skilled in IaC with Terraform, containerization using Docker, K8s, and full-stack CI/CD pipelines powered by GitHub Actions, Jenkins, and BitBucket. Led large-scale observability projects integrating Datadog, NewRelic, CloudWatch, and CloudTrail to deliver Log Management, APM, dashboards, KPI reporting, and a robust monitoring and alerting system, based on best-practice monitoring strategies that enhance development and operations workflows. Proficient in scripting with Python and Bash to automate and optimize cloud infrastructure, leveraging serverless tools such as Lambda and EventBridge and more.
 - 💻 Currently, I hold the role of a Site Reliability Engineer at a global AWS and Salesforce Reseller company.
 - 👯 I am actively seeking opportunities to collaborate with fellow content creators.
 
