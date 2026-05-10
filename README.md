@@ -6,13 +6,9 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" alt="Gal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThePinkPanther96&show_icons=true&hide_border=false&title_color=E2F89C&icon_color=E2F89C&bg_color=45,3F7CAC,95AFBA,BDC4A7,D5E1A3,E2F89C&text_color=FFFFFF&border_color=3F7CAC" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThePinkPanther96&show_icons=true&title_color=E2F89C&icon_color=E2F89C&bg_color=30,3F7CAC,95AFBA,BDC4A7,D5E1A3,E2F89C&text_color=FFFFFF&border_color=3F7CAC)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96&layout=compact&langs_count=8&card_width=320" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePinkPanther96&layout=compact&langs_count=8&card_width=320)
 
 ---
 ### 🧰 Tech toolbox
