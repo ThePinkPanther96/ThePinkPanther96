@@ -6,9 +6,9 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ThePinkPanther96&show_icons=true&theme=dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThePinkPanther96&theme=github_dark)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThePinkPanther96&layout=compact&theme=dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThePinkPanther96&theme=github_dark)
 
 ---
 ### 🧰 Tech toolbox
@@ -29,5 +29,3 @@
 
 ### P.S. - Here is a random joke that'll make your day a little better!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
