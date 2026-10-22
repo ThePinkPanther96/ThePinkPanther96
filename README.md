@@ -4,7 +4,7 @@ DevOps and Site Reliability Engineer focused on building reliable, observable, a
 
 I work with infrastructure as code, containers, CI/CD, serverless automation, and large-scale observability solutions that improve development and operations workflows.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ThePinkPanther96&style=for-the-badge&color=2088FF)
+![Profile Views]([https://komarev.com/ghpvc/?username=ThePinkPanther96&style=for-the-badge&color=2088FF](https://komarev.com/ghpvc/?username=ThePinkPanther96&style=for-the-badge&color=2088FF))
 
 ---
 
