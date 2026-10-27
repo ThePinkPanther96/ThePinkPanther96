@@ -4,7 +4,7 @@ DevOps and Site Reliability Engineer focused on building reliable, observable, a
 
 I work with infrastructure as code, containers, CI/CD, serverless automation, and large-scale observability solutions that improve development and operations workflows.
 
-![Profile Views]([https://komarev.com/ghpvc/?username=ThePinkPanther96&style=for-the-badge&color=2088FF](https://komarev.com/ghpvc/?username=ThePinkPanther96&style=for-the-badge&color=2088FF))
+[![Profile Views](https://komarev.com/ghpvc/?username=ThePinkPanther96&style=for-the-badge&color=2088FF)](https://github.com/ThePinkPanther96)
 
 ---
 
@@ -25,8 +25,22 @@ I work with infrastructure as code, containers, CI/CD, serverless automation, an
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Amazon EventBridge](https://img.shields.io/badge/Amazon_EventBridge-FF4F8B?style=for-the-badge&logo=amazoneventbridge&logoColor=white)
+
+Compute · Serverless · Networking · Storage & Databases · Security & IAM · Observability · Governance
+
+<details>
+<summary>AWS services & infrastructure capabilities</summary>
+
+- **Compute & containers:** EC2, Auto Scaling, ECS, EKS, Fargate
+- **Serverless & integration:** Lambda, API Gateway, EventBridge, Step Functions, SQS, SNS
+- **Networking & delivery:** VPC, Elastic Load Balancing, Route 53, CloudFront
+- **Storage & databases:** S3, EBS, EFS, RDS, DynamoDB
+- **Security & identity:** IAM, KMS, Secrets Manager, WAF
+- **Observability & operations:** CloudWatch, CloudTrail, Systems Manager
+- **Governance & cost:** Organizations, Control Tower, AWS Config, Budgets, Cost Explorer
+- **Reliability & recovery:** Multi-AZ architectures, backup strategies, AWS Backup
+
+</details>
 
 #### Containers & Platforms
 
@@ -47,7 +61,7 @@ I work with infrastructure as code, containers, CI/CD, serverless automation, an
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
 ![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Amazon CloudTrail](https://img.shields.io/badge/Amazon_CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=for-the-badge&logoColor=white)
 ![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ---
