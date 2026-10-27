@@ -25,22 +25,18 @@ I work with infrastructure as code, containers, CI/CD, serverless automation, an
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-Compute · Serverless · Networking · Storage & Databases · Security & IAM · Observability · Governance
-
-<details>
-<summary>AWS services & infrastructure capabilities</summary>
-
-- **Compute & containers:** EC2, Auto Scaling, ECS, EKS, Fargate
-- **Serverless & integration:** Lambda, API Gateway, EventBridge, Step Functions, SQS, SNS
-- **Networking & delivery:** VPC, Elastic Load Balancing, Route 53, CloudFront
-- **Storage & databases:** S3, EBS, EFS, RDS, DynamoDB
-- **Security & identity:** IAM, KMS, Secrets Manager, WAF
-- **Observability & operations:** CloudWatch, CloudTrail, Systems Manager
-- **Governance & cost:** Organizations, Control Tower, AWS Config, Budgets, Cost Explorer
-- **Reliability & recovery:** Multi-AZ architectures, backup strategies, AWS Backup
-
-</details>
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+<br>
+![Amazon API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![Amazon EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazoneventbridge&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazonvpc&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+<br>
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=awsiam&logoColor=white)
+![AWS KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=for-the-badge&logo=awskms&logoColor=white)
 
 #### Containers & Platforms
 
